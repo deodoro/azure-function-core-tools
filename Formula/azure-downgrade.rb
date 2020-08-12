@@ -1,4 +1,4 @@
-class AzureFunctionsCoreToolsAT3 < Formula
+class AzureDowngrade < Formula
   desc "Azure Functions Core Tools 3.0"
   homepage "https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local#run-azure-functions-core-tools"
   url "https://functionscdn.azureedge.net/public/3.0.2630/Azure.Functions.Cli.osx-x64.3.0.2630.zip"
