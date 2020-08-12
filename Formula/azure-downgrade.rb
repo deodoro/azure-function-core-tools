@@ -31,3 +31,4 @@ class AzureFunctionsCoreToolsAT3 < Formula
     assert_predicate testpath/"confusedDevTest/function.json", :exist?
   end
 end
+
